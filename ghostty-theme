@@ -1,0 +1,25 @@
+# Wood theme for Ghostty
+
+# Background and foreground colors
+background = #000000
+foreground = #e0e0e0
+
+# Standard colors
+palette = 0=#000000
+palette = 1=#E2ECBF
+palette = 2=#86964F
+palette = 3=#E2ECBF
+palette = 4=#DDA15E
+palette = 5=#E2ECBF
+palette = 6=#86964F
+palette = 7=#e0e0e0
+
+# Bright colors
+palette = 8=#E2ECBF
+palette = 9=#999999
+palette = 10=#86964F
+palette = 11=#b2b2b2
+palette = 12=#DDA15E
+palette = 13=#E2ECBF
+palette = 14=#E2ECBF
+palette = 15=#e0e0e0

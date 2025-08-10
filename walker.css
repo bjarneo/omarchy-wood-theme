@@ -1,0 +1,11 @@
+@define-color selected-text #DDA15E;
+@define-color text #e0e0e0;
+@define-color base #000000;
+@define-color border #663300;
+@define-color foreground #e0e0e0;
+@define-color background #000000;
+@define-color selected-background #DDA15E;
+
+window > list > box > row:selected {
+    background-color: @selected-background;
+}
